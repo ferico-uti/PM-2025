@@ -1,7 +1,7 @@
 ## Setup Project
 
-Cloning Repository menggunakan terminal dengan perintah berikut :
+Cloning Repository menggunakan Android Studio. Isikan URL berikut :
 ```bash
-git clone https://github.com/ferico-uti/PM-2025.git
+https://github.com/ferico-uti/PM-2025.git
 ```
-Setelah proses cloning dilakukan, buka project hasil cloning dengan Android Studio dan jalankan program
+Setelah proses cloning selesai, jalankan program hasil cloning dengan Android Studio menggunakan emulator/real device
